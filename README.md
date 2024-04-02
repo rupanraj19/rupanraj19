@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rupanraj19
-- 👀 I’m interested in Web development and Gaming.
-- 🌱 I’m currently learning Python and Js.
+- 👀 I’m interested in AI and Game Development.
+- 🌱 I’m currently learning Python and C++.
 - 💞️ I’m looking to collaborate on any projects regarding gaming or front end development.
 - 📫 How to reach me email:rupanraj2002@gmail.com
 
