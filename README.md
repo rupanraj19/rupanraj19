@@ -5,7 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rupanraj19" alt="rupanraj19" /></a> </p>
 
+- 🔭 I’m currently working on **problem solving skills**
+
 - 🌱 I’m currently learning **Python, C and C++**
+
+- 👯 I’m looking to collaborate on **Game development and App development**
+
+- 🤝 I’m looking for help with **C++ and Machine Learning**
 
 - 📫 How to reach me **rupanraj2002@gmail.com**
 
@@ -21,9 +27,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rupanraj19&show_icons=true&locale=en" alt="rupanraj19" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rupanraj19&" alt="rupanraj19" /></p>
-
-
-<!---
-rupanraj19/rupanraj19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
