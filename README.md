@@ -27,3 +27,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rupanraj19&show_icons=true&locale=en" alt="rupanraj19" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rupanraj19&" alt="rupanraj19" /></p>
+
+<p align="center">
+<img width="1000" src="assets/github-snake.svg" alt="snake"/> </p>
