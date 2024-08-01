@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rupanraj19&label=Profile%20views&color=0e75b6&style=flat" alt="rupanraj19" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy&color=0e75b6"><img src="https://github-profile-trophy.vercel.app/?username=rupanraj19&color=0e75b6" alt="rupanraj19" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy&color=0e75b6"><img src="https://github-profile-trophy.vercel.app/?username=rupanraj19&color=0e75b6&theme=shadow_blue" alt="rupanraj19" /></a> </p>
 
 - 🔭 I’m currently working on **problem solving skills**
 
