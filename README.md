@@ -71,11 +71,11 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rupanraj19&show_icons=true&locale=en&layout=compact&theme=shadow_blue" alt="rupanraj19" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rupanraj19&show_icons=true&locale=en&layout=compact&theme=blue-green" alt="rupanraj19" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rupanraj19&show_icons=true&locale=en&theme=shadow_blue" alt="rupanraj19" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rupanraj19&show_icons=true&locale=en&theme=blue-green" alt="rupanraj19" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rupanraj19&theme=shadow_blue" alt="rupanraj19" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rupanraj19&theme=aura" alt="rupanraj19" /></p>
 
 <p align="center"> <img src = "github-snake.svg" /> </p>
 
