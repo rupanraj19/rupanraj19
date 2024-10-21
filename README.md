@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Lokesh</h1>
+<p><h1 align="center">Hi 👋, I'm Lokesh</h1>
 <img  src="/borderseperator.gif">
-<h3 align="center">Coding for Fun</h3>
+<h3 align="center">Coding for Fun</h3> </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rupanraj19&label=Profile%20views&color=0e75b6&style=flat" alt="rupanraj19" /> </p>
 
