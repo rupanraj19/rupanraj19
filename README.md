@@ -1,7 +1,7 @@
 
 
 <p>
-  <h1 align="center"> Hi, I'm lokesh </h1>
+  <h3 align="center"> Hi, I'm lokesh </h3>
   <img src="/borderseperator.gif" align="center" alt="separator">
   <p align="center">Coding for Fun</p>
 </p>
