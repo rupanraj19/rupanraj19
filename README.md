@@ -1,7 +1,7 @@
 
 
 <p>
-  <img align="center" >Hi 👋, I'm Lokesh
+  ## Hi, I'm Lokesh
   <img src="/borderseperator.gif" align="center" alt="separator">
   <h3 align="center">Coding for Fun</h3>
 </p>
