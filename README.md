@@ -17,6 +17,7 @@
 </p>
 
 <ul>
+  <img src="/octocat.png" align="right" alt="my octocat">
   <li>🔭 I’m currently working on <b>problem solving skills</b></li>
   <li>🌱 I’m currently learning <b>Python, C, and C++</b></li>
   <li>👯 I’m looking to collaborate on <b>Game development and App development</b></li>
