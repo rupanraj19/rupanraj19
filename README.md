@@ -1,10 +1,10 @@
 
 
-<p>
+
   <h3 align="center">Hi 👋, I'm Lokesh</strong></h3>
   <img src="/borderseperator.gif" align="center" alt="separator">
   <p align="center">Coding for Fun</p>
-</p>
+
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=rupanraj19&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
