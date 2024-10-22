@@ -1,9 +1,9 @@
 
 
 <p>
-  <h2 align="center"> Hi, I'm lokesh </h2>
+  <h1 align="center"> Hi, I'm lokesh </h1>
   <img src="/borderseperator.gif" align="center" alt="separator">
-  <h3 align="center">Coding for Fun</h3>
+  <p align="center">Coding for Fun</p>
 </p>
 
 <p align="center"> 
