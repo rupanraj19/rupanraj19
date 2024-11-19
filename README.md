@@ -1,5 +1,6 @@
   <h3 align="center">Hi 👋, I'm Lokesh</strong></h3>
   <img src="/borderseperator.gif" align="center" alt="separator">
+  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
   <p align="center">Coding for Fun</p>
 
 
