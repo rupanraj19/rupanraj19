@@ -83,7 +83,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rupanraj19&show_icons=true&locale=en&theme=blue-green" alt="GitHub Stats" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rupanraj19&theme=aura" alt="GitHub Streak Stats" /></p>
 
 <p align="center"> 
   <img src="github-snake.svg" alt="GitHub Snake" /> 
