@@ -1,5 +1,5 @@
-  <h3 align="center">Hi 👋, I'm Lokesh</strong></h3>
-  <img src="/borderseperator.gif" align="center" alt="separator">
+  <h1 align="center">Hi 👋, I'm Lokesh</strong></h1>
+<!--   <img src="/borderseperator.gif" align="center" alt="separator"> -->
  <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38F78D&center=true&width=435&lines=Computer+Science+Student" alt="Typing SVG" /></a></p>
   <p align="center">Coding for Fun</p>
 
