@@ -19,7 +19,7 @@
   <li>🔭 I’m currently working on <b>problem solving skills</b></li>
   <li>🌱 I’m currently learning <b>C and C++</b></li>
   <li>👯 I’m looking to collaborate on <b>Game development and App development</b></li>
-  <li>🤝 I’m looking for help with <b>C++ and Machine Learning</b></li>
+  <li>🤝 I’m looking for help with <b>C++ and Cloud Engineering</b></li>
   <li>📫 How to reach me: <b>rupanraj2002@gmail.com</b></li>
 </ul>
 
